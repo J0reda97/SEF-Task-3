@@ -1,0 +1,77 @@
+body {
+    background-color: #eee;
+    text-align: center;
+
+}
+
+.container {
+    width: 80%;
+    margin: 100px auto;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.line {
+    margin: -10px auto 50px;
+    width: 100px;
+    height: 5px;
+    background-color: #416ADF;
+}
+
+.plans-container {
+    overflow: auto;
+    margin: 100px auto;
+}
+
+.plan {
+    padding: 25px 0;
+    width: 30%;
+    float: left;
+    border-radius: 25px;
+    border: 2px solid #416ADF;
+}
+
+.two {
+    margin: 0 55px;
+}
+
+h4 {
+    color: #555;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+span {
+    font-size: 25px;
+}
+
+h3 {
+    width: 100px;
+    height: 100px;
+    margin: 25px auto;
+    line-height: 90px;
+    border-radius: 50%;
+    border: 2px solid#00A86B;
+}
+
+p {
+    color: #555
+}
+
+a {
+    margin: 25px auto 25px;
+    display: block;
+    width: 35%;
+    padding: 10px;
+    color: #00A86B;
+    text-decoration: none;
+    border: 2px solid#00A86B;
+    border-radius: 25px;
+}
+
+a:hover {
+    color: white;
+    background-color: #00A86B
+}
